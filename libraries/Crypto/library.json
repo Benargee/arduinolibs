@@ -10,7 +10,7 @@
         "url": "https://rweather.github.io/arduinolibs/crypto.html"
     },
     "export": {
-      "include": "libraries/Crypto"
+      "include": ["libraries/Crypto","libraries/CryptoLW"]
     },
     "repository":
     {
